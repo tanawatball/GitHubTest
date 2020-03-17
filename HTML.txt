@@ -1,0 +1,21 @@
+<html>
+
+<head>
+
+ <title> Break Rule Tag </title>
+
+ </head>
+
+<body>
+
+ Test Normal Message
+
+ Test Normal Message
+
+ Test Break Rule Tag <br>
+
+ Test Break Rule Tag <br>
+
+ </body>
+
+ </html>
